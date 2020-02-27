@@ -14,5 +14,9 @@
         {
             return false;
         }
+        public string ChangeClass(EUnitClass)
+        {
+            EUnitClass.Villager;
+        }
     }
 }

@@ -7,6 +7,8 @@
         public Prop(EPropType _propType)
         {
             PropType = _propType;
+
+            
         }
     }
 }

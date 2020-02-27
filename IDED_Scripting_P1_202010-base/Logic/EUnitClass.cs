@@ -11,4 +11,25 @@
         Orc,
         Dragon
     }
+
+    public class TipoUnit : Unit
+    {
+        public EUnitClass unitType { get; protected set; }
+
+        public EUnitClass(EUnitClass _unitType)
+        {
+            unitType = _unitType;
+        }
+
+        public TipoUnit(int _atkAdd, int _defAdd, int _spdAdd, int _moveRangeAdd)
+        {
+
+        }
+
+        public class Villager() 
+
+
+    }
+
+
 }

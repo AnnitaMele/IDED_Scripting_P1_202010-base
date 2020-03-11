@@ -1,0 +1,2 @@
+D:\USUARIOS\Ana Sofia\Desktop\2020-1\Scripting\EjerciciodelParcial\IDED_Scripting_P1_202010-base-master\IDED_Scripting_P1_202010-base\obj\Debug\IDED_Scripting_P1_202010-base.csprojAssemblyReference.cache
+D:\USUARIOS\Ana Sofia\Desktop\2020-1\Scripting\EjerciciodelParcial\IDED_Scripting_P1_202010-base-master\IDED_Scripting_P1_202010-base\obj\Debug\IDED_Scripting_P1_202010-base.csproj.CoreCompileInputs.cache
